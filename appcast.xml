@@ -1,0 +1,19 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Neer Kanakku- Appcast</title>
+<item>
+<title>Version 1.1.0</title>
+<description>Bug Fixes</description>
+<pubDate>wed, 26 Jun 2024 12:00:00 +0000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=com.neer_kanakku.delivery_app" sparkle:os="android"/>
+<sparkle:version>1.1.9</sparkle:version>
+<sparkle:criticalUpdate sparkle:version="1.1.8"></sparkle:criticalUpdate>
+<sparkle:minimumAutoupdateVersion>1.1.7</sparkle:minimumAutoupdateVersion>
+</item>
+<item>
+<title>Version 1.1.8</title>
+<pubDate>wed, 26 Jun 2024 10:00:00 +0000</pubDate>
+<enclosure url="https://apps.apple.com/in/app/examble-0001" sparkle:version="1.1.7"  sparkle:os="ios"/>
+</item>
+</channel>
+</rss>
