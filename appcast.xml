@@ -6,9 +6,9 @@
 <description>Bug Fixes</description>
 <pubDate>wed, 26 Jun 2024 12:00:00 +0000</pubDate>
 <enclosure url="https://play.google.com/store/apps/details?id=com.neer_kanakku.delivery_app" sparkle:os="android"/>
-<sparkle:version>1.1.9</sparkle:version>
-<sparkle:criticalUpdate sparkle:version="1.1.8"></sparkle:criticalUpdate>
-<sparkle:minimumAutoupdateVersion>1.1.7</sparkle:minimumAutoupdateVersion>
+<sparkle:version>1.1.12</sparkle:version>
+<sparkle:criticalUpdate sparkle:version="1.1.11"></sparkle:criticalUpdate>
+<sparkle:minimumAutoupdateVersion>1.1.11</sparkle:minimumAutoupdateVersion>
 </item>
 <item>
 <title>Version 1.1.8</title>
